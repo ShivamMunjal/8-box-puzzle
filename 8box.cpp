@@ -68,9 +68,9 @@ int main()
 
 	if(!validate())
 	{
-		cout<<"wrong";
+		cout<<"Wrong Answer";
 	}
 	else
-	cout<<"Right";
+	cout<<"Right Answer";
     return 0;
 }
